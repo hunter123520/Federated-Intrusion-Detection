@@ -12,10 +12,10 @@ This repository contains the Jupyter Notebook implementation of a privacy-preser
 
 1. **Clone the repository and install dependencies:**
    ```bash
-   git clone [https://github.com/your_username/your_repo_name]
+   git clone [https://github.com/hunter123520/Federated-Intrusion-Detection]
    ```
 2. **Install dependencies:**
     ```bash
-  pip install -r requirements.txt
+    pip install -r requirements.txt
     ```
 3. **Run the notebook:** Open **Intrusion Detection Centrelized.ipynb** or **Intrusion Detection Federated Learning.ipynb** in a Jupyter Notebook environment.
